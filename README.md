@@ -140,26 +140,18 @@ npm run dev:weapp
 - [x] mv 播放
 - [x] 视频与 mv 中的评论列表
 
-<div align="center">
-  <image width="900" src="https://oscimg.oschina.net/oscnet/498fdfc98cc89d72196dded4f54afa29ed4.jpg"/>
-</div>
+
+![pic2](https://oscimg.oschina.net/oscnet/498fdfc98cc89d72196dded4f54afa29ed4.jpg)
 
 ### 效果图预览
 
 > 下面简要列出几张效果图
 
-<div align="center">
-  <image width="900" src="https://oscimg.oschina.net/oscnet/f52f4448ce3475f5ecd002958ae1413a3dd.jpg"/>
-</div>
+![pic1](https://oscimg.oschina.net/oscnet/f52f4448ce3475f5ecd002958ae1413a3dd.jpg)
 
-<div align="center">
-  <image width="900" src="https://oscimg.oschina.net/oscnet/446008d8690a962a105f839c46d7638b89b.jpg"/>
-</div>
+![pic3](https://oscimg.oschina.net/oscnet/446008d8690a962a105f839c46d7638b89b.jpg)
 
-<div align="center">
-  <image width="900" src="https://oscimg.oschina.net/oscnet/38e5dcac4baaca87195e95a115132cb7958.jpg"/>
-</div>
-
+![pic3](https://oscimg.oschina.net/oscnet/38e5dcac4baaca87195e95a115132cb7958.jpg)
 ### 有待完善部分
 
 还有一些功能点以及细节都还有待进一步完善，目前先把大致主要的功能进行了下实现，当然如果发现什么问题，欢迎能够提交`issues`,发现之后我会及时进行更正,欢迎 `star` 和 `fork`，感谢大家支持 🙏。
